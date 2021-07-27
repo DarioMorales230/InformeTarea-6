@@ -353,8 +353,127 @@ c. Determine las ecuaciones de descarga para vC e iC.
 
 ![image](https://user-images.githubusercontent.com/85144847/127092639-5589be30-0325-4d09-b569-859101d42e5d.png)
 
+31. Para la figura 11-57, el interruptor se cierra en t=0. Si Vo=0 V
 
+a. Determine las ecuaciones para vc e ic
 
+b. Calcule el voltaje del capacitor en t=0,2,4,6,8,10 y 12 ms
+
+c. Repita el inciso (b) para la corriente del capacitor
+
+![image](https://user-images.githubusercontent.com/85144847/127110627-26b22470-d3ed-4c35-b592-b87200893e5b.png)
+
+- Calculamos resistencia equivalente para ocupar el teorema de Thevenin.
+
+![image](https://user-images.githubusercontent.com/85144847/127111429-7a19aaba-149c-4325-a9d3-fc3ebd772eb8.png)
+
+- Encontramos el voltaje correspondiente.
+
+![image](https://user-images.githubusercontent.com/85144847/127111876-95bb4434-e359-459f-b5f2-d85b22d3e2b2.png)
+
+VR60 = 60/90 (90) = 60 V
+
+Circuito Equivalente de Thévenin:
+
+![image](https://user-images.githubusercontent.com/85144847/127112513-52655c26-ecbf-4c4d-a0e1-c0896848b104.png)
+
+- Desarrollo:
+
+a. 
+
+![image](https://user-images.githubusercontent.com/85144847/127113370-b797b36c-f804-4c20-8739-68a22ed3722f.png)
+
+b. 
+
+![image](https://user-images.githubusercontent.com/85144847/127113305-3d0a38f2-c6ad-47e6-a528-aedf27c7cb40.png)
+
+c.      
+
+![image](https://user-images.githubusercontent.com/85144847/127113654-7d770692-f27f-496e-85b7-754bbed56bd5.png)
+
+33.  Para el circuito de la figura 11-54, el capacitor está inicialmente descargado. El interruptor es movido primero a la posición de carga y luego a la de descarga, proporcionando la corriente que se muestra en la figura 11-58. El capacitor se carga totalmente en 12.5 s. Determine E, R2 y C.
+
+![image](https://user-images.githubusercontent.com/85144847/127113776-dd491ac4-be64-4435-88af-8e9d8e3e1a30.png)
+
+![image](https://user-images.githubusercontent.com/85144847/127113817-9f5979b4-ff7f-4348-990b-121a3f20dab8.png)
+
+- Divideremos el circuito en dos casos 
+
+Caso A
+
+![image](https://user-images.githubusercontent.com/85144847/127114120-83effeff-b418-47e6-8eeb-ad5a6a7107d0.png)
+![image](https://user-images.githubusercontent.com/85144847/127114343-b035dc83-fcfe-445f-bd3a-35b30c5b3056.png)
+
+Caso B
+
+![image](https://user-images.githubusercontent.com/85144847/127114670-a24e2338-830f-4cd7-9370-d5726a751c25.png)
+![image](https://user-images.githubusercontent.com/85144847/127114698-831c479f-57c8-477d-b05a-dc59b169ac67.png)
+
+- Comparando los casos tenemos:
+
+![image](https://user-images.githubusercontent.com/85144847/127114791-8b743065-12f3-4f7a-bc4e-e72cb6154676.png)
+
+35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 después de que se alcanzó el estado estable.
+
+![image](https://user-images.githubusercontent.com/85144847/127115245-5d9deb71-75f7-4db9-8f5a-220f2b1e867c.png)
+
+- Redibujando el circuito.
+
+![image](https://user-images.githubusercontent.com/85144847/127116747-dcdb197a-d785-40fe-a877-f864fe9c2282.png)
+
+- Calculando tenemos:
+
+![image](https://user-images.githubusercontent.com/85144847/127117394-b71594e3-cf70-4bbd-b242-a6277f0ee235.png)
+![image](https://user-images.githubusercontent.com/85144847/127117593-c3851040-36e6-4bcc-9354-f4253dbba8c2.png)
+![image](https://user-images.githubusercontent.com/85144847/127117682-5c5d7130-5eec-49c1-89df-f281553c01d5.png)
+
+37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5V,R=750 kΩ y la alarma es activada en 15 s. cuando vc=3.8 V ¿Qué valor tiene C?
+
+![image](https://user-images.githubusercontent.com/85144847/127118696-cf8a8b67-b2c1-4358-9335-15942af16df8.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/127119592-3f867f4a-60d0-4f33-85e1-0eaaad52f14c.png)
+
+39. Considere la forma de onda de la figura 11-62.
+
+a. ¿Cuál es el periodo?
+
+b. ¿Cuál es el ciclo de trabajo?
+
+c. ¿Cuál es el VRP?
+
+![image](https://user-images.githubusercontent.com/85144847/127119984-7d4ea4c0-710c-4e65-b0a8-415202d5a4b8.png)
+
+- Respuestas:
+
+a. 
+
+T = 5 μs
+
+b. 
+
+![image](https://user-images.githubusercontent.com/85144847/127120614-349292bb-f17a-4c82-a7b4-edfa32329809.png)
+
+c.
+
+![image](https://user-images.githubusercontent.com/85144847/127120884-1983a7d1-6910-46ed-a0dc-c6eec96053f7.png)
+
+41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de la figura 11-64.
+
+![image](https://user-images.githubusercontent.com/85144847/127121029-a98ef7d7-ba60-4bcd-859d-835c63494d02.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/127121226-544307e1-7143-42be-93f9-0bad4a138b81.png)
+
+43. Se aplica un escalón al circuito de la figura 11-66. Si R= 150 Ω y C= 20pF, estime el tiempo que tarda en subir el voltaje de salida.
+
+![image](https://user-images.githubusercontent.com/85144847/127121564-27ee6b02-1372-4304-88b1-63b6b4e27141.png)
+
+- Resultados:
+
+![image](https://user-images.githubusercontent.com/85144847/127122324-3aab2421-84f9-48f2-966d-1a558d2076ef.png)
 
 3.2. CAPITULO 12
 
