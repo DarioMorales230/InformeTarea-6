@@ -619,40 +619,97 @@ Area Efectiva = 5.64×10^(-4) m^2
 ![image](https://user-images.githubusercontent.com/85144847/127097607-5202d8fd-8498-4d81-a3d4-a07efae193ef.png)
 ![image](https://user-images.githubusercontent.com/85144847/127097626-16e9f65b-8e29-4ebc-8252-690d64426575.png)
 
+21. Para el circuito de la figura 12-51, ф=30 x μWb y N = 2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.
 
+![image](https://user-images.githubusercontent.com/85144847/127167444-c6b15b29-9d80-4eaf-9773-4250d42caf2d.png)
 
+- Desarrollo:
 
+![image](https://user-images.githubusercontent.com/85144847/127167492-7bf02cbd-c5ad-4ef0-aeba-10320c0aa0d7.png)
 
+- Donde:
 
+![image](https://user-images.githubusercontent.com/85144847/127167563-089b2ffc-06ab-4284-bc57-6008220787cf.png)
 
+23. Una segunda bobina de 450 vueltas con l2 = 4 amperes se devanan en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente l1
 
+![image](https://user-images.githubusercontent.com/85144847/127167880-5804291c-d721-4de9-a2c2-7078bf2d3edc.png)
 
+Con los datos ya obtenidos en la grafica procedemos a realizar lo siguiente:
 
+![image](https://user-images.githubusercontent.com/85144847/127169055-55f9259c-9ad9-4c71-86a1-36e74ea12da2.png)
+![image](https://user-images.githubusercontent.com/85144847/127169077-1eea7d58-3e07-4031-995a-b299e4765d30.png)
+![image](https://user-images.githubusercontent.com/85144847/127169119-809c73b5-0edb-4e05-adf3-591d36574f16.png)
 
+H=7.96 x 10^5 (0.27 )
 
+H=214920 At/m
 
+Donde diremos lo siguiente:
 
+-600 I1+450 x 4=1900(0.0508)=680 x 0.0889+230x0.14
 
+-503.58=-600I
 
+I=0.84 A
 
+25. Si el circuito de la figura 12-53 no tiene espacio y ф3 = 0.2 mWb, encuentre I.
 
+![image](https://user-images.githubusercontent.com/85144847/127169259-d0543f4e-3ecb-4c8a-936e-038af8c50e69.png)
 
+- Desarrollo:
 
+![image](https://user-images.githubusercontent.com/85144847/127169977-0fa86d1a-7682-44f1-907b-1cbcef59dc99.png)
 
+Donde sabemos que:
 
+![image](https://user-images.githubusercontent.com/85144847/127170044-10238a7c-ca05-4b1d-a0a8-5d40754ddba5.png)
 
+27. Si NI = 644 Av para el núcleo de acero fundido de la figura 12-54, encuentre el flujo, ф 
 
+NI=644 Av
+Encontraremos la longitud
+l=2(6)π
 
+l=0.377
 
+Luego su respectiva área
 
+A=36π cm
 
+Donde decimos que:
 
+H=644/0.377
 
+H=1708.22 Av/m
 
+B=2146.12〖 x 10〗^(-7)
 
+Por lo tanto, tenemos que el flujo equivale a:
 
+ф = 4.1 x 10^(-4)  Wb
 
+12-13 Fuerza debida a un electroimán
 
+29. Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2.5 cm y se requiere una fuerza de 2 libras para cerrar el espacio, ¿cuánto flujo se necesita (en webers)?
+
+![image](https://user-images.githubusercontent.com/85144847/127171464-8a6683c9-283d-4208-b49c-803a57408acd.png)
+
+- Desarrollo 
+
+Obtenemos el area correspondiente:
+
+A = (2)(2.5) = 5 cm = 0.0005 m^2
+
+- Donde:
+
+![image](https://user-images.githubusercontent.com/85144847/127173487-a82319d9-24b5-4561-b214-e778511ffeab.png)
+
+ф=AB
+
+ф=(0.0005)(100)
+
+ф = 1.02 x 10^(-4)  Wb
 
 4. VIDEO DE YOUTUBE
 
