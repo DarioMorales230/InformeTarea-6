@@ -28,6 +28,8 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+3.1. CAPITULO 11
+
 1. El capacitor de la figura 11-50 está descargado. 
 
 ![image](https://user-images.githubusercontent.com/85144847/127063421-1f27811f-04ca-4af9-829f-6ffd65101f3b.png)
@@ -228,7 +230,133 @@ c. Grafique vc e ic.
 
 ![image](https://user-images.githubusercontent.com/85144847/127084723-8ce9a659-aa30-4735-9c64-deaeed8023d1.png)
 
+11-4 Ecuaciones de descarga del capacitor 
 
+23. Para el circuito de la figura 11-53, suponga que el capacitor está cargado a 50 V antes de que el interruptor se cierre. 
+
+![image](https://user-images.githubusercontent.com/85144847/127090691-cf7b58ca-2c74-4c4d-b835-28b815480ef4.png)
+
+- RESOLUCIÓN:
+
+V0 = 50V
+
+R = 25kΩC = 20μF
+
+RC = (25kΩ)(20μF)
+
+RC = (25×10^3 Ω)(20×10^(-6) F)
+
+RC = 0.5s
+
+![image](https://user-images.githubusercontent.com/85144847/127090867-998938bb-6e94-4d4a-8b87-632ef4f9000e.png)
+
+![image](https://user-images.githubusercontent.com/85144847/127090894-81d816a6-44bb-406e-a6d7-bbd7e33bcfcf.png)
+
+c. Determine la constante de tiempo del circuito. 
+
+τ = RC
+
+RC = 0.5s
+
+τ = 0.5s
+
+d. Calcule vC e iC en t =0 s, t= t, 2, 3, 4, y 5t. 
+
+Siendo el voltaje y la corriente t=0^+.
+
+![image](https://user-images.githubusercontent.com/85144847/127091073-e5f10be8-69cf-4198-b86a-fc09aaabbcd5.png)
+![image](https://user-images.githubusercontent.com/85144847/127091100-5a3adc2b-9784-4f32-a065-e3c1f948500d.png)
+
+Siendo el voltaje y la corriente t=τ.
+
+![image](https://user-images.githubusercontent.com/85144847/127091155-f0a52175-e2b6-453a-a238-8c698bd74b25.png)
+![image](https://user-images.githubusercontent.com/85144847/127091176-1f1d0fad-0836-48ee-91d9-0df2f02a2988.png)
+
+Siendo el voltaje y la corriente t=2τ.
+
+![image](https://user-images.githubusercontent.com/85144847/127091228-92be5cdf-d6bf-40fb-a6b0-0c37285096dc.png)
+![image](https://user-images.githubusercontent.com/85144847/127091242-b946bd86-ed65-4174-aaaf-3f726dbcc4a4.png)
+
+Siendo el voltaje y la corriente t=3τ.
+
+![image](https://user-images.githubusercontent.com/85144847/127091291-df0faf98-e63d-426d-943c-535cc82775c1.png)
+![image](https://user-images.githubusercontent.com/85144847/127091309-695626db-4cab-4314-bfa1-0aee9fe001db.png)
+
+Siendo el voltaje y la corriente t=4τ.
+
+![image](https://user-images.githubusercontent.com/85144847/127091375-94e5e752-8e93-4256-8944-f0faf81bcd05.png)
+![image](https://user-images.githubusercontent.com/85144847/127091389-231ba771-9fe5-4899-a10d-ee65016aa09c.png)
+
+Siendo el voltaje y la corriente t=5τ.
+
+![image](https://user-images.githubusercontent.com/85144847/127091440-3f6f7ac8-0548-4aee-8cb0-0cf61ca47bbf.png)
+![image](https://user-images.githubusercontent.com/85144847/127091458-6c71d4d2-8354-4517-9fe6-c2009f744730.png)
+
+e.	Grafique los resultados del inciso (d) con el eje del tiempo con escalas de segundos y de constantes de tiempo. 
+
+- Gráfico del Voltaje.
+
+![image](https://user-images.githubusercontent.com/85144847/127091568-8d3ab458-1a81-4613-a82c-fc8cd77f73d2.png)
+
+- Gráfico de la Corriente.
+
+![image](https://user-images.githubusercontent.com/85144847/127091590-880d12b0-d3d2-49df-a569-8d5d1beb6f59.png)
+
+25. Un capacitor de 4.7 uF se carga a 43 volts. Si un resistor de 39 k ohmn se conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta el resistor? 
+
+- RESOLUCIÓN:
+
+![image](https://user-images.githubusercontent.com/85144847/127091710-edf99200-36d4-401a-884c-e616645a6d1e.png)
+![image](https://user-images.githubusercontent.com/85144847/127091761-2a2e19bb-8eef-4c52-84d5-e8a0df2af835.png)
+
+27. Para la figura 11-54, sea E = 200 V, R2 = 1 k ohm y C = 0.5 uF. Después de que el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2. 
+
+![image](https://user-images.githubusercontent.com/85144847/127091858-1a857cbb-a4be-4227-9945-203e669fd85e.png)
+
+a.	¿Qué voltaje tiene el capacitor inmediatamente después de que el interruptor es movido a la posición 2? ¿Cuál es la corriente? 
+
+![image](https://user-images.githubusercontent.com/85144847/127091918-e9cd55c1-fae9-4668-a501-8fcba8f5a5c4.png)
+
+b.	¿Cuál es la constante de tiempo de descarga?
+
+τ=R_th C
+
+τ=(R2+R3)C
+
+τ=(16kΩ)(0.5μF)
+
+τ=8ms
+
+c. Determine las ecuaciones de descarga para vC e iC.
+
+![image](https://user-images.githubusercontent.com/85144847/127092224-eb5b5a7b-958f-44c6-9665-36694155781b.png)
+![image](https://user-images.githubusercontent.com/85144847/127092237-b5c6304c-6034-4df6-94c1-c1e8cf4ba063.png)
+
+11-5 Circuitos más complejos 
+
+29. Los capacitores de la figura 11-55 están descargados. El interruptor se cierra en t = 0. Determine la ecuación para vC. Calcule vC a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compare sus respuestas.
+
+![image](https://user-images.githubusercontent.com/85144847/127092302-cf83b8e8-2228-4227-9734-0ec9b2671f85.png)
+
+- RESOLUCIÓN:
+
+![image](https://user-images.githubusercontent.com/85144847/127092445-34c2d928-1165-44b3-89cf-5ca22431dfb9.png)
+![image](https://user-images.githubusercontent.com/85144847/127092469-6f9fdca4-234d-4486-b471-bd79663b3d65.png)
+
+- Redibujando el circuito tenemos:
+
+![image](https://user-images.githubusercontent.com/85144847/127092505-7053e892-90ad-489c-980f-8967d67e7283.png)
+
+![image](https://user-images.githubusercontent.com/85144847/127092580-8a3bfce0-2c0d-4fab-b399-74f43500e987.png)
+
+![image](https://user-images.githubusercontent.com/85144847/127092618-038eff47-a02f-48c1-995f-1062849d88aa.png)
+
+![image](https://user-images.githubusercontent.com/85144847/127092639-5589be30-0325-4d09-b569-859101d42e5d.png)
+
+
+
+
+3.2. CAPITULO 12
 
 
 
