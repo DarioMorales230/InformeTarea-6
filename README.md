@@ -358,6 +358,178 @@ c. Determine las ecuaciones de descarga para vC e iC.
 
 3.2. CAPITULO 12
 
+12-3 Flujo magnético y densidad de flujo 
+
+1. Vea la figura 12-41:
+
+![image](https://user-images.githubusercontent.com/85144847/127093373-db3a83aa-912c-4b74-97f7-95b9d91e7abd.png)
+
+a. ¿Qué área, A1 o A2, utilizaría para calcular la densidad de flujo? 
+
+Usamos el área A_1 para calcular la densidad de flujo porque, la densidad de flujo se encuentra dividiendo el flujo total que pasa perpendicularmente a través de un área del tamaño del área.
+
+b. Si = 28 mWb, ¿cuál es la densidad de flujo en teslas? 
+
+![image](https://user-images.githubusercontent.com/85144847/127093491-2dad3f2d-d775-4d7e-9246-b2452db291ce.png)
+
+3. El toroide de la figura 12-42 tiene una sección transversal circular y =628 uWb. Si r1= 8 cm y r2=12 cm, ¿cuál es la densidad de flujo en teslas?
+
+![image](https://user-images.githubusercontent.com/85144847/127093669-0c323623-cbc1-4a58-b8fb-0ebe9deda953.png)
+
+Flujo: Φ = 628μWb
+
+r1 = 8cm = 0.08m
+
+r2 = 12cm = 0.12m
+
+![image](https://user-images.githubusercontent.com/85144847/127093784-bbeb4f06-1abd-4899-811d-1ba94f8ba9e4.png)
+
+![image](https://user-images.githubusercontent.com/85144847/127093816-97b88276-8819-4139-a0ec-6341a3d90f7d.png)
+
+2-5 Espacios de aire, desbordamiento y núcleos laminados
+
+5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B = 1.45 T, ¿qué valor tiene en webers? 
+
+![image](https://user-images.githubusercontent.com/85144847/127094052-2ad6f263-6c93-42ef-9836-eb5119d15d97.png)
+
+A=0.025m×0.04m
+
+A=1×10^(-3) m^2
+
+Factor de Apilamiento: 0.85
+
+- 	Area Efectiva= Factor de Apilamiento×Area Fisica
+
+Area Efectiva = 0.85×1×10^(-3) m^2
+
+AE = 0.85×10^(-3) m^2
+
+- Densidad de Flujo: B = 1.45 T
+
+Φ=B×AE
+
+Φ=1.45 t×0.85×10^(-3) m^2 
+
+Φ=1.2325 mWb
+
+12-6 Elementos en serie y en paralelo
+
+7. Para la sección del núcleo de hierro de la figura 12-45, si 1=12 mWb y 3 =2 mWb, ¿cuánto vale B2?
+
+![image](https://user-images.githubusercontent.com/85144847/127094541-1ca98c6c-28d2-4096-96db-9cb944d839cc.png)
+
+- RESOLUCIÓN:
+
+![image](https://user-images.githubusercontent.com/85144847/127094610-e2ec5581-8217-46c0-bfee-779a6bc0c26f.png)
+
+![image](https://user-images.githubusercontent.com/85144847/127094667-1c1eeffa-673d-4927-b93f-ddeae295e0a7.png)
+
+12-8 Intensidad de campo magnético y curvas de magnetización
+
+9. Un núcleo con dimensiones de 2 cm x 3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene si el núcleo es de hierro fundido? ¿Si es de acero fundido? ¿Si es de hoja de acero con FA = 0,94?
+
+El área del núcleo es:  A=2cm×3cm
+
+A=6cm^2
+
+A = 6×10^(-4)  m^2
+
+Siendo la intensidad magnética: 
+
+H = 1200 Av/m
+
+Hierro Fundido: B_(hierro fundido) = 0.44 T
+
+![image](https://user-images.githubusercontent.com/85144847/127094805-cba73786-67db-4d72-a03a-32b994760457.png)
+
+Acero Fundido: B_(acero fundido) = 1.23 T
+
+![image](https://user-images.githubusercontent.com/85144847/127094853-572358e8-f755-4ae5-9c1d-f4ef363d9237.png)
+
+Donde tenemos: FC = 0.94
+
+Densidad de Flujo: B_(acero fundido) = 1.43 T
+
+Factor de Apilamiento: = 0.94
+
+Area Efectiva= Factor de Apilamiento×Area Fisica
+
+Area Efectiva = 0.94×6×10^(-4)
+
+Area Efectiva = 5.64×10^(-4) m^2
+
+![image](https://user-images.githubusercontent.com/85144847/127094990-6aae4f24-984f-4ae0-9481-c3152ab3b43e.png)
+
+11. Considere una vez más la figura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm, ¿qué valor tiene H en amperes-vuelta por metro?
+
+![image](https://user-images.githubusercontent.com/85144847/127095799-99ca8a51-983e-465c-bc24-ddedd60a3994.png)
+
+- RESOLUCIÓN:
+
+![image](https://user-images.githubusercontent.com/85144847/127095849-53f07125-444d-48a5-95a7-4c340b861639.png)
+
+13. Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
+
+![image](https://user-images.githubusercontent.com/85144847/127095965-c68b32ad-25fe-4ebb-b94f-e798475492f0.png)
+![image](https://user-images.githubusercontent.com/85144847/127096040-d150b74a-217c-4c7a-9c9b-e0763ccfd8a2.png)
+
+15. Encuentre la corriente I en la figura 12-48 si ɸ = 0.16 mWb.
+
+![image](https://user-images.githubusercontent.com/85144847/127096297-807166f5-e773-45da-b225-c40b240cf5bd.png)
+
+![image](https://user-images.githubusercontent.com/85144847/127096236-da038c91-b1f8-48c8-9a73-8d6aee2b76f1.png)
+
+17. Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para ɸ = 0.128 mWb. No tome en cuenta el desbordamiento.
+
+![image](https://user-images.githubusercontent.com/85144847/127096487-b191ab05-7cff-4fff-b52b-abb1b4691a52.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/127096601-2e6310a5-68a7-4047-9fbc-868817e686c4.png)
+
+![image](https://user-images.githubusercontent.com/85144847/127096636-142b7e05-ca6d-463e-81d0-2ed23749e9c7.png)
+
+19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm x 1.5 cm, la = 0.3 mm, la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.
+
+![image](https://user-images.githubusercontent.com/85144847/127097215-f27e762e-c17b-4700-8403-e646c55030e7.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/127097526-023180a8-44bd-4c02-b2ca-a20f0a64119b.png)
+
+![image](https://user-images.githubusercontent.com/85144847/127097607-5202d8fd-8498-4d81-a3d4-a07efae193ef.png)
+![image](https://user-images.githubusercontent.com/85144847/127097626-16e9f65b-8e29-4ebc-8252-690d64426575.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
